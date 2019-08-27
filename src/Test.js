@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Query, Builder, Preview, Utils} from 'react-awesome-query-builder';
-import config from './config';
+import config from './config/config';
 import './css/reset.css';
 import './css/styles.css';
 import './css/denormalize.css';
